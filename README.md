@@ -6,3 +6,9 @@
 - :woman_technologist: i want to work with <b>cybersecurity</b> one day
 - :books: i'm always learning new things
 - :globe_with_meridians: checkout [my website](http://xsslush.github.io/) (mobile version in development)
+
+<p align="center">
+    <a href="https://tryhackme.com/p/lush07">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/lush07.png?nocache=1" alt="TryHackMe Badge" />
+</a>
+</p>
