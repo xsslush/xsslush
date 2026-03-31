@@ -7,8 +7,9 @@
 - :books: i'm always learning new things
 - :globe_with_meridians: checkout [my website](http://xsslush.github.io/) (still in development)
 
-### contact me
+### my socials
 [![email](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:ana.reis12@proton.me)
-<a href="https://www.linkedin.com/in/ana-sarah-reis/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/xsslush"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/xsslush/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](linkedin.com/ana-sarah-reis)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](github.com/xsslush)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](instagram.com/xsslush)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)]([spotify.com/](https://open.spotify.com/user/c82d9kiiarbd2v9xyftgu3wva?si=b5276663e1d04390))
