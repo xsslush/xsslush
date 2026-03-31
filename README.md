@@ -1,7 +1,7 @@
-<h2>hi, i'm sarah 👾</h2>
-<h3>about me</h3>
+## hi, i'm sarah 👾
+### about me
 <picture><img align="right" src="lain.png" width="250px" alt="serial experiments lain"></picture>
-- :brazil_flag: i'm a 18y old brazillian girl who loves tech
+- :nerd_face: i'm a 18y old brazillian girl who loves tech
 - :computer: i'm currently studying <b>cybersecurity</b> and <b>programming</b>
 - :woman_technologist: i want to work with <b>cybersecurity</b> one day
 - :books: i'm always learning new things
